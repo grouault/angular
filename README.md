@@ -2,7 +2,7 @@
 
 ### Synthèse décomposition des composant
 
-* Sub/Pub avec Subject
+* décomposition 2 : Sub/Pub avec Subject
 
 * service dans lequel on va gérer la communication entre les composants : EventDriverService
 
