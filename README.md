@@ -1,8 +1,5 @@
 ## angular
 
-### Synthède décomposition des composant
-* décomposition
-* communication entre composants
-    * eventEmitter
-    * @Input
-    * @Output
+### Synthèse décomposition des composant
+
+* Sub/Pub avec Subject
