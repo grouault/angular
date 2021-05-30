@@ -10,19 +10,27 @@
     },
     {
       "id": 2,
-      "name": "printer",
+      "name": "printerq",
       "price": 300,
       "quantity": 100,
-      "selected": false,
-      "available": true
+      "available": true,
+      "selected": true
     },
     {
       "id": 3,
       "name": "test",
-      "price": "800",
-      "quantity": 0,
+      "price": "801",
+      "quantity": "1",
       "available": true,
       "selected": true
+    },
+    {
+      "name": "p2",
+      "price": "41",
+      "quantity": "3",
+      "selected": true,
+      "available": true,
+      "id": 4
     }
   ]
 }
